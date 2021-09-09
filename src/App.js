@@ -4,7 +4,7 @@ import AddUser from "./components/User/AddUser";
 function App() {
   return (
     <div>
-      <AddUser></AddUser>
+      <AddUser />
     </div>
   );
 }
